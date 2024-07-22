@@ -1,0 +1,12 @@
+C:\Astra\Source\Repos\Library.Ngram\bin\Debug\net6.0\Library.Ngram.deps.json
+C:\Astra\Source\Repos\Library.Ngram\bin\Debug\net6.0\Library.Ngram.dll
+C:\Astra\Source\Repos\Library.Ngram\bin\Debug\net6.0\Library.Ngram.pdb
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.csproj.AssemblyReference.cache
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.AssemblyInfoInputs.cache
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.AssemblyInfo.cs
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.csproj.CoreCompileInputs.cache
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.dll
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\refint\Library.Ngram.dll
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\Library.Ngram.pdb
+C:\Astra\Source\Repos\Library.Ngram\obj\Debug\net6.0\ref\Library.Ngram.dll
